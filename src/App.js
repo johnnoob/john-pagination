@@ -28,7 +28,7 @@ function App() {
   return (
     <main>
       <div className="section-title">
-        <h1>{loading ? 'loading...' : 'pagination'}</h1>
+        <h1>{loading ? 'loading...' : '分頁DEMO'}</h1>
         <div className="underline"></div>
       </div>
       <section className="followers">
